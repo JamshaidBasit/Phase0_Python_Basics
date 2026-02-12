@@ -23,5 +23,6 @@
 #git push origin main          # GitHub par bhejo
 ##git remote add origin {Repository Name}
 #git remote -v
+## git remote remove origin
 
 
