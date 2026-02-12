@@ -38,3 +38,5 @@ person=Student(Name="Jamshaid",Age=10)
 print(person.Name)
 print(person.Age())
 
+
+
