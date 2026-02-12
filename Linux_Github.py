@@ -26,4 +26,15 @@
 ## git remote remove origin
 ###################################################################
 
+class Student:
+    def __init__(self,Name,Age):
+        self.Name=Name
+        self.Age1=Age
+    def Age(self):
+        DoB=1982-self.Age1
+        print(type(DoB))
+        return DoB
+person=Student(Name="Jamshaid",Age=10)
+print(person.Name)
+print(person.Age())
 
